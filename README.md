@@ -72,7 +72,7 @@
   <a href="#">
     <img src="https://img.shields.io/badge/LinkedIn-Reyhan-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="#">
+  <a href="https://reychan-abdillah.github.io/PORTOFOLIO/">
     <img src="https://img.shields.io/badge/Portfolio-Visit_Now-0A66C2?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
