@@ -50,6 +50,7 @@
 | [**iOS-Calculator-Clone**](https://github.com/Reychan-Abdillah/iOS-Calculator-Clone) | iOS-style calculator clone | HTML, JS, Tailwind |
 | [**Stock-Manager**](https://github.com/Reychan-Abdillah/Stock-Manager) | Stock management web app | HTML, Tailwind CSS Node.js, Express, MongoDB |
 | [**TATA-CELL**](https://github.com/Reychan-Abdillah/TATA-CELL) | Simple form web project | HTML |
+| [**Personal-Portofolio**](https://github.com/Reychan-Abdillah/Personal-PortofolioL) | Modern personal v2 portfolio website | HTML, Tailwind CSS, JavaScript |
 
 ---
 
@@ -83,7 +84,7 @@
 > 🌍 *Thanks for visiting — Don’t forget to ⭐ my repos if you like them!*
 
 ---
-
+<!-- https://github.com/Reychan-Abdillah/Personal-Portofolio -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Reychan-Abdillah/Reychan-Abdillah/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Reychan-Abdillah/Reychan-Abdillah/output/pacman-contribution-graph.svg">
