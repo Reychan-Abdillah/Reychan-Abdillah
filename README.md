@@ -69,7 +69,7 @@
   <a href="https://github.com/Reychan-Abdillah">
     <img src="https://img.shields.io/badge/GitHub-Reychan--Abdillah-181717?style=for-the-badge&logo=github"/>
   </a>
-  <a href="#">
+  <a href="https://www.linkedin.com/in/reychan-abdillah-320aa138a/">
     <img src="https://img.shields.io/badge/LinkedIn-Reyhan-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://reychan-abdillah.github.io/PORTOFOLIO/">
