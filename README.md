@@ -50,7 +50,7 @@
 | [**iOS-Calculator-Clone**](https://github.com/Reychan-Abdillah/iOS-Calculator-Clone) | iOS-style calculator clone | HTML, JS, Tailwind |
 | [**Stock-Manager**](https://github.com/Reychan-Abdillah/Stock-Manager) | Stock management web app | HTML, Tailwind CSS Node.js, Express, MongoDB |
 | [**TATA-CELL**](https://github.com/Reychan-Abdillah/TATA-CELL) | Simple form web project | HTML |
-| [**Personal-Portofolio**](https://github.com/Reychan-Abdillah/Personal-PortofolioL) | Modern personal v2 portfolio website | HTML, Tailwind CSS, JavaScript |
+| [**Personal-Portofolio**](https://github.com/Reychan-Abdillah/Personal-Portofolio) | Modern personal v2 portfolio website | HTML, Tailwind CSS, JavaScript |
 
 ---
 
