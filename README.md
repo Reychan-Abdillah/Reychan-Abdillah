@@ -1,4 +1,4 @@
-<!-- BANNER -->
+
 <p align="center">
   <img src="img/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif" alt="Anime Developer Banner" width="100%">
 </p>
@@ -83,7 +83,7 @@
 > 🌍 *Thanks for visiting — Don’t forget to ⭐ my repos if you like them!*
 
 ---
-<!-- https://github.com/Reychan-Abdillah/Personal-Portofolio -->
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Reychan-Abdillah/Reychan-Abdillah/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Reychan-Abdillah/Reychan-Abdillah/output/pacman-contribution-graph.svg">
