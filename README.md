@@ -76,10 +76,9 @@
 
 | 🚀 Project | 📌 Description | 🧩 Tech |
 |-----------|----------------|---------|
-| **Portfolio** | Personal portfolio with animations & dark mode | React, Tailwind, Framer |
-| **Stock Manager** | Fullstack CRUD with auth & analytics | Node.js, Express, MongoDB |
-| **iOS Calculator Clone** | Modern UI calculator | HTML, Tailwind, JS |
-| **Dashboard System** | Login, CRUD, filtering, analytics | Express, MongoDB, EJS |
+| [**Portfolio**](https://github.com/Reychan-Abdillah/Personal-Portofolio) | Modern personal portfolio with animations, dark mode & contact form using Google Apps Script | HTML, Tailwind CSS, JavaScript |
+| [**Fullstack-Inventory-Insight**](https://github.com/Reychan-Abdillah/fullstack-inventory-insight) | Fullstack CRUD with auth & analytics | Node.js, Express, MongoDB |
+| **Dashboard System** | Modern full-featured dashboard with login, CRUD, analytics, and update email/password | Express, MongoDB, EJS |
 
 ---
 
