@@ -78,6 +78,7 @@
 |-----------|----------------|---------|
 | [**Portfolio**](https://github.com/Reychan-Abdillah/Personal-Portofolio) | Modern personal portfolio with animations, dark mode & contact form using Google Apps Script | HTML, Tailwind CSS, JavaScript |
 | [**Fullstack-Inventory-Insight**](https://github.com/Reychan-Abdillah/fullstack-inventory-insight) | Modern fullstack web with login, CRUD, analytics, and update email/password | Node.js, Express, MongoDB |
+| [**Secure-Account-Management-system**](https://github.com/Reychan-Abdillah/Secure-Account-Management-system) | Backend-focused account management system featuring modular architecture, authentication flow, validation layer, protected endpoints, and secure credential handling using Node.js, Express, and MongoDB. | Node.js, Express, MongoDB |  
 
 ---
 
